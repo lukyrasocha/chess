@@ -1,0 +1,25 @@
+#board > div {
+    height: 60px;
+  }
+  
+  .white, .black {
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+  }
+  
+  .white {
+    background-color: white;
+  }
+  
+  .black {
+    background-color: black;
+  }
+
+  /* .a1 {
+    background-color: aqua;
+  }
+
+  .b3 {
+    background-color: aquamarine;
+  } */

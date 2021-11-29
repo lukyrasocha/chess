@@ -1,0 +1,16 @@
+{
+  "name": "chess2",
+  "version": "1.0.0",
+  "description": "My First app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "king1323",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^12.0.1"
+  }
+}
